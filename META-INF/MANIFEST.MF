@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Crypto-Strength: unlimited
+Created-By: 1.7.0_07 (Oracle Corporation)
+
+Name: default_local.policy
+SHA-256-Digest: Gerl7+VQb3cFKct3babB20DHzy5LacxOFogzMk1oDJo=
+
+Name: source_tips
+SHA-256-Digest: HhxSaVuzwXk7n3tHRIY3dksFxvTILQnRPoe7LWbiEnA=
+
